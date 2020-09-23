@@ -12,7 +12,7 @@
 
 ---
 # Target devices.
-- android devices(Galaxy S9+, HongMi Note S9)
+- android devices(Galaxy S9+, HongMi Note S9, LG G-pad3)
 - Embbeded devices(OrangePi, NanoPi, BananaPi, RaspberryPi, etc ..)
 - OLED board(for i2c test)
 ---
